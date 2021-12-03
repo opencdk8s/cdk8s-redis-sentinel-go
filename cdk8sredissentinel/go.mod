@@ -1,4 +1,4 @@
-module github.com/opencdk8s/cdk8s-redis-sentinel-go/cdk8sredissentinel/cdk8sredissentinel
+module github.com/opencdk8s/cdk8s-redis-sentinel-go/cdk8sredissentinel
 
 go 1.16
 

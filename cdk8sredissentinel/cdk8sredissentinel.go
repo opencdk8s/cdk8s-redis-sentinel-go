@@ -5,11 +5,11 @@ import (
 	"time"
 
 	_jsii_ "github.com/aws/jsii-runtime-go/runtime"
-	_init_ "github.com/opencdk8s/cdk8s-redis-sentinel-go/cdk8sredissentinel/cdk8sredissentinel/jsii"
+	_init_ "github.com/opencdk8s/cdk8s-redis-sentinel-go/cdk8sredissentinel/jsii"
 
 	"github.com/aws/constructs-go/constructs/v3"
 	"github.com/cdk8s-team/cdk8s-core-go/cdk8s"
-	"github.com/opencdk8s/cdk8s-redis-sentinel-go/cdk8sredissentinel/cdk8sredissentinel/internal"
+	"github.com/opencdk8s/cdk8s-redis-sentinel-go/cdk8sredissentinel/internal"
 )
 
 // Affinity is a group of affinity scheduling rules.
