@@ -56977,6 +56977,9 @@ type RedisOptions struct {
 	// The size of volume to use.
 	// Experimental.
 	VolumeSize *string `json:"volumeSize"`
+	// The namespace to deploy the sts to.
+	// Experimental.
+	Namespace *string `json:"namespace"`
 	// Node Selectors.
 	// Experimental.
 	NodeSelector *map[string]*string `json:"nodeSelector"`
